@@ -2,7 +2,6 @@
   "name": "sdevore/cs-cakephp-plugin",
   "description": "Community Schools Kit",
   "type": "cakephp-plugin",
-  "keywords": ["cakephp"],
   "homepage": "https://github.com/sdevore/cs-cakephp-plugin",
   "license": "MIT",
   "authors": [
