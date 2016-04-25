@@ -1,0 +1,35 @@
+{
+  "name": "sdevore/cs-cakephp-plugin",
+  "description": "Community Schools Kit",
+  "type": "cakephp-plugin",
+  "keywords": ["cakephp"],
+  "homepage": "https://github.com/sdevore/cs-cakephp-plugin",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Sam DeVore",
+      "homepage": "http://sdevore.com",
+      "role": "Author"
+    },
+  ],
+  "support": {
+    "issues": "https://github.com/sdevore/cs-cakephp-plugin/issues",
+    "source": "https://github.com/sdevore/cs-cakephp-plugin"
+  },
+  "require": {
+    "php": ">=5.3.0",
+    "composer/installers": "*"
+  },
+  "require": {
+
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/sdevore/cs-cakephp-plugin"
+    }
+  ],
+  "extra": {
+    "installer-name": "Cs"
+  }
+}
