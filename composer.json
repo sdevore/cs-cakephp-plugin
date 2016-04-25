@@ -9,7 +9,7 @@
       "name": "Sam DeVore",
       "homepage": "http://sdevore.com",
       "role": "Author"
-    },
+    }
   ],
   "support": {
     "issues": "https://github.com/sdevore/cs-cakephp-plugin/issues",
